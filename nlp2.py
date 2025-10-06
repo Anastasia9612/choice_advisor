@@ -85,7 +85,7 @@ else:
     print("Обучение модели...")
 
     # Загрузка датасета из файла
-    dataset = load_dataset('dataset_gpt.txt')
+    dataset = load_dataset('dataset.txt')
 
     # Перемешивание данных
     random.shuffle(dataset)

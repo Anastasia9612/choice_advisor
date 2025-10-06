@@ -161,4 +161,4 @@ def main(page: ft.Page):
 
 
 # Запуск веб-приложения
-ft.app(target=main, view=ft.WEB_BROWSER, port=8088)
+ft.app(target=main, view=ft.WEB_BROWSER, port=8000)
