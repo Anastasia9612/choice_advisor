@@ -30,5 +30,6 @@ python src/gui_flet.py
 # Приложение откроется в браузере по адресу http://localhost:8000
 ```
 
-screen.jpg
+![Интерфейс](screen.jpg)
+
 
